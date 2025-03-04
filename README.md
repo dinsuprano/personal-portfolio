@@ -4,7 +4,7 @@ A simple portfolio starter theme built with Vue.js v3, Composition API and Tailw
 
 ## Url
 
-[https://vuejs-tailwindcss-portfolio.netlify.com](https://vuejs-tailwindcss-portfolio.netlify.com)
+[https://nuruddinnaim.com](https://nuruddinnaim.com)
 
 ## Setup
 
