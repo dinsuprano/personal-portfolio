@@ -6,7 +6,7 @@ export default {
 				{
 					id: 1,
 					bio:
-						'I am a skilled software developer with a strong academic background in Software Technology. I hold a Bachelor of Computer Science with Honours from Universiti Kebangsaan Malaysia, where I studied core subjects such as Object-Oriented Programming, Advanced Databases, Operating Systems, Networking, Web Development, and Discrete Mathematics. My expertise lies in web development, specializing in technologies like Laravel, Livewire, PHP, and MySQL, alongside proficiency in programming languages such as JavaScript, Java, Python, and C. With a solid foundation in database management and system optimization, I am passionate about developing efficient and scalable applications while continuously exploring new advancements in technology.',
+						'A skilled software developer with a strong academic background in Software Technology. I hold a Bachelor of Computer Science with Honours from Universiti Kebangsaan Malaysia, where I studied core subjects such as Object-Oriented Programming, Advanced Databases, Operating Systems, Networking, Web Development, and Discrete Mathematics. My expertise lies in web development, specializing in technologies like Laravel, Livewire, PHP, and MySQL, alongside proficiency in programming languages such as JavaScript, Java, Python, and C. With a solid foundation in database management and system optimization, I am passionate about developing efficient and scalable applications while continuously exploring new advancements in technology.',
 				},
 			],
 		};
