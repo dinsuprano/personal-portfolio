@@ -81,8 +81,8 @@ export default {
 
         <!-- Projects list -->
         <div class="container mx-auto px-4 py-10">
-            <!-- List Layout -->
-            <div class="flex flex-col gap-6">
+            <!-- 2 Column Grid Layout -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <ProjectSingle v-for="project in filteredProjects" :key="project.id" :project="project" />
             </div>
         </div>

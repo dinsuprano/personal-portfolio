@@ -29,6 +29,16 @@ const projects = [
         tags: ['TailwindCSS', 'PHP', 'Filament'],
         link: 'https://github.com/dinsuprano/filament-web-app',
     },
+    {
+        id: 4,
+        title: 'Personal Blog Website',
+        category: 'Web Application',
+        img: require('@/assets/images/web-project2.png'),
+        description: 'A personal blog template was created using React and TailwindCSS, featuring a modern design and responsive layout, allowing users to share their thoughts and experiences through engaging blog posts.',
+        tags: ['TailwindCSS', 'React',],
+        link: 'https://aviation-simple-blog.vercel.app/',
+    },
+    
     // Add more projects as needed
 ];
 

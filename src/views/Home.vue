@@ -2,6 +2,7 @@
 import AppBanner from '@/components/shared/AppBanner';
 import ProjectsGrid from '../components/projects/ProjectsGrid.vue';
 import Button from '../components/reusable/Button.vue';
+import TechCarousel from '@/components/shared/TechCarousel.vue';
 
 export default {
 	name: 'Home',
@@ -9,6 +10,7 @@ export default {
 		AppBanner,
 		ProjectsGrid,
 		Button,
+		TechCarousel,
 	},
 };
 </script>
@@ -30,6 +32,14 @@ export default {
 			>
 				<Button title="More Projects" />
 			</router-link>
+		</div>
+
+		<!-- Tech Carousel -->
+		<div class="mt-20">
+			<h1 class="font-general-semibold text-2xl sm:text-5xl font-semibold mb-2 text-ternary-dark dark:text-ternary-light">
+                Skills & Technologies
+            </h1>
+			<TechCarousel :duration="40" />
 		</div>
 	</div>
 </template>
