@@ -1,6 +1,6 @@
 <template>
     <div class="mt-10 sm:mt-20">
-        <p class="font-general-medium text-2xl sm:text-3xl text-primary-dark dark:text-primary-light">
+        <p class="font-general-semibold text-2xl sm:text-5xl font-semibold mb-2 text-ternary-dark dark:text-ternary-light">
             {{ resumeHeading }}
         </p>
         <hr class="border-t-2 border-gray-300 dark:border-gray-600 mt-4">
@@ -75,7 +75,7 @@ button {
     cursor: pointer;
 }
 button.active-tab {
-    background-color: #4f46e5;
+    background-color: #d8a54e;
     color: white;
 }
 .tab-content {
