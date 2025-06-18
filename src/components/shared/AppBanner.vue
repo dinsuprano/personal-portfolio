@@ -31,7 +31,7 @@ export default {
 			<!-- Image above the name -->
 			<div class="flex justify-center sm:justify-start mb-4">
 				<img
-					src="@/assets/images/profile.jpeg"
+					src="@/assets/images/gemini.png"
 					alt="Your Image"
 					class="w-20 h-20 rounded-full"
 				/>

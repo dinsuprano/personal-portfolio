@@ -1,6 +1,6 @@
 # Vuejs & TailwindCSS Portfolio - With Dark Mode
 
-A simple portfolio starter theme built with Vue.js v3, Composition API and Tailwind CSS v3.
+A simple portfolio starter theme built with Vue.js v3 and Tailwind CSS v3.
 
 ## Url
 
@@ -14,29 +14,14 @@ A simple portfolio starter theme built with Vue.js v3, Composition API and Tailw
 -   [Install it using NVM ](https://github.com/nvm-sh/nvm)
 -   If you're on Mac, Homebrew is a good option too:
 
-```
-brew install node
-```
 
-2. Clone the repo:
-
-```
-git clone https://github.com/realstoman/vuejs-tailwindcss-portfolio.git
-```
-
-3. Open the project folder:
-
-```
-cd vuejs-tailwindcss-portfolio
-```
-
-4. Install packages and dependencies:
+2. Install packages and dependencies:
 
 ```
 npm install
 ```
 
-5. Start a local dev server at `http://localhost:8080`:
+3. Start a local dev server at `http://localhost:8080`:
 
 ```
 npm run serve
@@ -44,10 +29,5 @@ npm run serve
 
 ## Notes
 
--   Always run `npm install` after pulling new changes
--   I'll be constantly updating this repo as I'll be adding more sections to it, so please always check the projects section of this repo to see what tasks are under todo and in progress
--   Coming Soon [I'll be doing a screencast](https://www.youtube.com/realstoman). Soon I'll be uploading a video to my YouTube channel where I'll be going through the process of creating this portoflio
--   Illustrations from [unDraw](https://undraw.co) and [Freepik](https://freepik.com)
--   Images from [Unsplash](https://unsplash.com)
--   Feel free to use it as your own portfolio
--   Contributions are welcome
+- I used this template to help me understand how Vue works. After learning the basics, I customized it to fit my needs. This hands-on method was how I learned.
+- Learning is always free — but it takes passion and persistence. Never give up.
