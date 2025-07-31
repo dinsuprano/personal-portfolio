@@ -25,7 +25,7 @@ export default {
                 {{ project.title }}
             </p>
 			<p
-                class="font-general-regular text-md text-ternary-dark dark:text-ternary-light mb-4"
+                class="font-general-regular text-md text-ternary-dark dark:text-ternary-light mb-4 text-justify"
             >
                 {{ project.description }}
             </p>
