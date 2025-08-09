@@ -56,6 +56,15 @@ const projects = [
         tags: ['Wordpress', 'Deployment', 'Elementor'],
         link: 'https://chambersofnadzrulniezar.com',
     },
+    {
+        id: 7,
+        title: 'Blood Pressure Management System',
+        category: 'Web Application',
+        img: require('@/assets/images/web-project1.png'),
+        description: 'A web-based system was designed and implemented using Next Js to manage blood pressure records, featuring an optimized PostgreSQL database for efficient storage, retrieval, and tracking, ensuring seamless accessibility and smooth operation.',
+        tags: ['Next Js', 'Prisma', 'Vercel','PostgreSQL'],
+        link: 'https://github.com/dinsuprano/blood-pressure-app',
+    },
     
     // Add more projects as needed
 ];

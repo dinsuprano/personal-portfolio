@@ -19,8 +19,8 @@ export const socialLinks = [
 	},
 	{
 		id: 5,
-		name: 'YouTube',
-		icon: 'youtube',
-		url: 'https://www.youtube.com/c/nuruddinnaim',
+		name: 'Email',
+		icon: 'mail',
+		url: 'mailto:nuruddinnaim@gmail.com',
 	},
 ];

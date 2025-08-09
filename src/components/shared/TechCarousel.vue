@@ -38,12 +38,14 @@ export default {
     return {
       logos: [
         { src: require('@/assets/logos/python.png'), alt: 'Python' },
-        { src: require('@/assets/logos/java.png'), alt: 'Java' },
+        { src: require('@/assets/logos/react.png'), alt: 'React' },
         { src: require('@/assets/logos/C.png'), alt: 'C' },
         { src: require('@/assets/logos/laravel.png'), alt: 'Laravel' },
         { src: require('@/assets/logos/php.png'), alt: 'PHP' },
         { src: require('@/assets/logos/postgress.png'), alt: 'Postgresql' },
         { src: require('@/assets/logos/mysql.png'), alt: 'MySQL' },
+        { src: require('@/assets/logos/next.png'), alt: 'Next' },
+        { src: require('@/assets/logos/java.png'), alt: 'Java' },
       ],
     };
   },
