@@ -29,22 +29,27 @@ export default {
 		<!-- Banner left contents -->
 		<div class="w-full text-left">
 			<!-- Image above the name -->
-			<div class="flex justify-center sm:justify-start mb-4">
+			<!-- <div class="flex justify-center sm:justify-start mb-4">
 				<img
 					src="@/assets/images/gemini.png"
 					alt="Your Image"
 					class="w-20 h-20 rounded-full"
 				/>
-			</div>
+			</div> -->
 			<h1
 				class="font-general-semibold text-3xl md:text-3xl xl:text-4xl text-center sm:text-left text-ternary-dark dark:text-primary-light uppercase"
 			>
-				Hi, I’m Nuruddin Naim
+				Nuruddin Naim
 			</h1>
 			<p
 				class="font-general-medium mt-2 text-lg sm:text-xl  xl:text-2xl text-center sm:text-left leading-none text-gray-400"
 			>
-				A software developer who loves exploring new technologies.
+				Software Developer
+			</p>
+			<p
+				class="font-general-medium mt-2 text-base sm:text-lg xl:text-xl text-center sm:text-left leading-none text-gray-500"
+			>
+				Building efficient and scalable web applications.
 			</p>
 			<div class="flex justify-center sm:block">
 				<a

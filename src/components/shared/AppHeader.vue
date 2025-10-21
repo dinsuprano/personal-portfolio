@@ -3,13 +3,14 @@ import ThemeSwitcher from '../ThemeSwitcher';
 import HireMeModal from '../HireMeModal.vue';
 import feather from 'feather-icons';
 import AppHeaderLinks from './AppHeaderLinks.vue';
-// import Button from '../reusable/Button.vue';
+import NLogo from './NLogo.vue'; // <-- add
 
 export default {
 	components: {
 		ThemeSwitcher,
 		HireMeModal,
 		AppHeaderLinks,
+		NLogo, // <-- add
 		// Button,
 	},
 	data() {
@@ -89,18 +90,10 @@ export default {
 			<div class="flex justify-between items-center px-4 sm:px-0">
 				<!-- Header logos -->
 				<div>
-					<router-link to="/"
-						><img
-							v-if="theme === 'light'"
-							src="@/assets/images/logo3.png"
-							class="w-40"
-							alt="Dark Logo"
-						/>
-						<img
-							v-else
-							src="@/assets/images/logo3.png"
-							class="w-40"
-							alt="Light Logo"
+					<router-link to="/">
+						<!-- Single SVG that adapts to theme via Tailwind dark: -->
+						<NLogo
+							class="w-24 h-auto text-secondary-dark dark:text-ternary-light"
 						/>
 					</router-link>
 				</div>
