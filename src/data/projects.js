@@ -13,6 +13,15 @@ const projects = [
     },
     {
         id: 2,
+        title: 'Job Portal Web Application',
+        category: 'Web Application',
+        img: require('@/assets/images/web-project2.png'),
+        description: 'A job portal web application was developed using Laravel, allowing users to create, edit, and delete job postings while enabling user engagement through a commenting feature for interactive discussions.',
+        tags: ['Laravel', 'Tailwind Css', 'PostgreSQL'],
+        link: 'https://github.com/dinsuprano/cms-project',
+    },
+    {
+        id: 3,
         title: 'Blog Management System',
         category: 'Web Application',
         img: require('@/assets/images/web-project2.png'),
@@ -21,7 +30,7 @@ const projects = [
         link: 'https://github.com/dinsuprano/Blog-using-Livewire-3',
     },
 	{
-        id: 3,
+        id: 4,
         title: 'Product Management System',
         category: 'Web Application',
         img: require('@/assets/images/web-project2.png'),
@@ -30,7 +39,7 @@ const projects = [
         link: 'https://github.com/dinsuprano/filament-web-app',
     },
     {
-        id: 4,
+        id: 5,
         title: 'Personal Blog Website',
         category: 'Web Application',
         img: require('@/assets/images/web-project2.png'),
@@ -39,7 +48,7 @@ const projects = [
         link: 'https://aviation-simple-blog.vercel.app/',
     },
     {
-        id: 5,
+        id: 6,
         title: 'Aircraft Tools Management',
         category: 'Web Application',
         img: require('@/assets/images/web-project1.png'),
@@ -48,7 +57,7 @@ const projects = [
         link: 'https://github.com/dinsuprano/Aircraft-Tools-Management',
     },
     {
-        id: 6,
+        id: 7,
         title: 'Wordpress Development',
         category: 'Web Application',
         img: require('@/assets/images/web-project1.png'),
@@ -57,7 +66,7 @@ const projects = [
         link: 'https://chambersofnadzrulniezar.com',
     },
     {
-        id: 7,
+        id: 8,
         title: 'Blood Pressure Management System',
         category: 'Web Application',
         img: require('@/assets/images/web-project1.png'),
