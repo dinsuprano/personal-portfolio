@@ -44,8 +44,9 @@ export default {
         { src: require('@/assets/logos/php.png'), alt: 'PHP' },
         { src: require('@/assets/logos/postgress.png'), alt: 'Postgresql' },
         { src: require('@/assets/logos/mysql.png'), alt: 'MySQL' },
-        { src: require('@/assets/logos/next.png'), alt: 'Next' },
+        { src: require('@/assets/logos/js1.png'), alt: 'JavaScript' },
         { src: require('@/assets/logos/java.png'), alt: 'Java' },
+        { src: require('@/assets/logos/vue.png'), alt: 'Vue' },
       ],
     };
   },
