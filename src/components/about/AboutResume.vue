@@ -113,9 +113,9 @@ export default {
                 {
                     id: 1,
                     period: '2025 - Present',
-                    role: 'Software Developer (Freelance)',
+                    role: 'Software Developer (Contract)',
                     company: 'TNB Labs Sdn Bhd',
-                    description: 'Develop a web application using Laravel for internal company use.',
+                    description: 'Develop a web application using React and Laravel for internal company use.',
                 },
                 {
                     id: 2,

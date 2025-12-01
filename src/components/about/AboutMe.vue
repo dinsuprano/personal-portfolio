@@ -11,7 +11,7 @@ export default {
 				{
 					id:2,
 					bio:
-					'My expertise lies in web development, specializing in technologies like Laravel, Livewire, PHP, and MySQL, alongside proficiency in programming languages such as JavaScript, Java, Python, and C. With a solid foundation in database management and system optimization, I am passionate about developing efficient and scalable applications while continuously exploring new advancements in technology.'
+					'My expertise lies in web development, specializing in technologies like Laravel, Livewire, React, Vue, PostgreSQL and MySQL, alongside proficiency in programming languages such as JavaScript, Java, Python, and C. With a solid foundation in database management and system optimization, I am passionate about developing efficient and scalable applications while continuously exploring new advancements in technology.'
 				}
 			
 			],
